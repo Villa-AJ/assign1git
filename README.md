@@ -9,3 +9,5 @@ This is a change on newbranch
 Test branch change
 
 Test branch change 2
+
+New branch change 3
